@@ -12,7 +12,7 @@ public abstract class Pizza {
 
   // This should be abstract as it's not close for the modification.
   // Different Pizzas can have different implementation of this
-  
+
   public void prepare() {
     System.out.println("Preparing " + name);
     System.out.println("Tossing dough....");
