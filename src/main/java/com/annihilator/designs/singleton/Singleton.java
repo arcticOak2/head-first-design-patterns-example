@@ -1,4 +1,4 @@
-package com.annihilator.designs.singelton;
+package com.annihilator.designs.singleton;
 
 public class Singleton {
 
